@@ -8,3 +8,20 @@
 .search-form>input {
     border-radius: 5px;    
 }
+.gallery {
+    padding-left: 12rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15rem;
+    row-gap: 2;
+}
+.load-more {
+    margin-left: 55rem;
+}
+.info {
+    display: flex;
+    gap: 20px;
+}
+.gallery__image {
+    max-height: 400px;
+}
