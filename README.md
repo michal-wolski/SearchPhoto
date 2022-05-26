@@ -6,5 +6,5 @@
 
 ## About project
 
-I create app for search image, to fetch data from api i use axios  
+I create app for search image, to fetch data from api Pixabay i use axios.
 
